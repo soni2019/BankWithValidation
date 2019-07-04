@@ -1,0 +1,12 @@
+{
+	"accountNumber": 1234,	
+	"custMobNum": 4465255,
+	"custName": "Soni",
+	"custRole": "S/W developer",
+	"address": [{
+		"city": "patna",
+		"pincode": 840258,
+		"state": "samastipur",
+		"typeOfAddress": "Home"
+	}]
+}
